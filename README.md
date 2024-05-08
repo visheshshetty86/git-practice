@@ -1,1 +1,1 @@
-hi this repository is made purely on the basis of for me to learn and practice git and github commands.
+hi this project is made in the intention to learn git and git hub
